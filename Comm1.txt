@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Rayhan's Personal Site</title>
+</head>
+
+<body>
+    <h1>Rayhan Riaz</h1>
+    <p><em>Student at <a href="https://vtop.vit.ac.in/"><strong>Vit Vellore</strong></a></em></p>
+    <p>The kid who studies</p>
+    <em>emphasis tag</em>
+    <strong>strong tag</strong>
+    <b>bold tag</b>
+    <i>italics tag</i>
+    <hr>
+    <img src="images/RM.png" alt="Aston Martin Pic">
+    <hr>
+    <h3>Books and Skills</h3>
+    <ul>
+        <li>Frontend Web Dev</li>
+        <li>Backend Web Dev</li>
+        <ul>
+            <li>Node js & Express js</li>
+            <li>HTML CSS JS</li>
+        </ul>
+    </ul>
+    <hr>
+    <h4>Work Experience</h4>
+    <table>
+        <thead>
+            <tr>
+                <th>Dates</th>
+                <th>Work</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>2010-2013</td>
+                <td>Lead Developer at XYZ</td>
+            </tr>
+            <tr>
+                <td>2010</td>
+                <td>Junior Developer at ABC</td>
+            </tr>
+        </tbody>
+    </table>
+    <hr>
+    <a href="hobbies.html">My Hobbies</a>
+    <a href="Contact.html">My Contact Details</a>
+</body>
+
+</html>
